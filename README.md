@@ -28,24 +28,14 @@ Analise Exploratória de Dados conexão com Database SQL Server, e scripts para 
     - Criação de Gráficos: Dispersão, Boxplot, distribuição
     - Modelo de Machine Learning para Clusterização - Kmeans
 
+### Exemplo Código:
 
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/ConnectionSQLServer.svg)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/windows_SQLQuery.svg)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/Join_SQL.svg)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/Kmeans.svg)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/Klusters_results.svg)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/code_dispersion.svg)
-
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/ConnectionSQLServer.svg=70x100)
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/windows_SQLQuery.svg=70x100)
 
 
 ### Relatório Final:
 
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output1.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output2.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output3.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output4.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output5.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output6.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output7.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output8.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output9.png)
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output7.png=70x100)
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output8.png=70x100)
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output9.png=70x100)
