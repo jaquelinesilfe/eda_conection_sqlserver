@@ -30,12 +30,9 @@ Analise Exploratória de Dados conexão com Database SQL Server, e scripts para 
 
 ### Exemplo Código:
 
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/ConnectionSQLServer.svg) { width=50% }
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/windows_SQLQuery.svg)
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/ConnectionSQLServer.svg) ![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/windows_SQLQuery.svg)
 
 
 ### Relatório Final:
 
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output7.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output8.png)
-![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output9.png)
+![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output7.png) ![Image](https://github.com/jaquelinesilfe/eda_conection_sqlserver/blob/main/Images/output8.png)
